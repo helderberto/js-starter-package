@@ -24,12 +24,6 @@ Explain how to run the automated tests for this system.
 
 Add additional notes about how to deploy this on a live system.
 
-## Built With
-
-* NodeJS - Lorem ipsum
-* JavaScript - Maybe
-* VSCode - Bla bla bla
-
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
